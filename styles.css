@@ -33,6 +33,8 @@
 
 .left{
 	display: flex;
+	flex-direction: row;
+	
 	height: 500px;
 	width: 50%;
 	margin:0;
